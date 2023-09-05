@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 📫 How to reach me:
+- Telegram: @tiazz0
 <detail>
 <p align="center">
  <img src="https://wakatime.com/share/@3fa6f882-0c98-428d-8f0a-ae5cee0d04f6/df3c62a8-ac1f-4dd1-81b9-120701804d3a.svg" height="400" />
@@ -6,9 +8,6 @@
 </detail>
 <!--
 **Tiazen/Tiazen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://wakatime.com/share/@3fa6f882-0c98-428d-8f0a-ae5cee0d04f6/060c8091-5873-4d39-8af5-2ac7211ee135.svg
-Here are some ideas to get you started:
-https://wakatime.com/share/@3fa6f882-0c98-428d-8f0a-ae5cee0d04f6/060c8091-5873-4d39-8af5-2ac7211ee135.svg
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -18,4 +17,3 @@ https://wakatime.com/share/@3fa6f882-0c98-428d-8f0a-ae5cee0d04f6/060c8091-5873-4
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://camo.githubusercontent.com/2aaf82c965ce6542a43a15fefcbe9664bfa244fb452f39f07b76da9780c5859c/68747470733a2f2f77616b6174696d652e636f6d2f73686172652f4033666136663838322d306339382d343238642d386630612d6165356365653064303466362f66366662663038332d306264362d346232362d623233382d3537663332633439636166392e737667
