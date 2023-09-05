@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<detail>
+<p align="center">
+ <img src="https://wakatime.com/share/@3fa6f882-0c98-428d-8f0a-ae5cee0d04f6/780f5c53-1826-4d38-86e0-fa7569634bdf.svg"
+</p>
+</detail>
 <!--
 **Tiazen/Tiazen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
