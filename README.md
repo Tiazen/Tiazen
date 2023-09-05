@@ -1,12 +1,12 @@
 ### Hi there 👋
 <detail>
 <p align="center">
- <img src="https://wakatime.com/share/@3fa6f882-0c98-428d-8f0a-ae5cee0d04f6/780f5c53-1826-4d38-86e0-fa7569634bdf.svg" height="400" />
+ <img src="https://wakatime.com/share/@3fa6f882-0c98-428d-8f0a-ae5cee0d04f6/060c8091-5873-4d39-8af5-2ac7211ee135.svg" height="400" />
 </p>
 </detail>
 <!--
 **Tiazen/Tiazen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://wakatime.com/share/@3fa6f882-0c98-428d-8f0a-ae5cee0d04f6/060c8091-5873-4d39-8af5-2ac7211ee135.svg
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
