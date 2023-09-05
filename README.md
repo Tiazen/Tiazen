@@ -1,7 +1,7 @@
 ### Hi there 👋
 <detail>
 <p align="center">
- <img src="https://wakatime.com/share/@3fa6f882-0c98-428d-8f0a-ae5cee0d04f6/f6fbf083-0bd6-4b26-b238-57f32c49caf9.svg" height="400" />
+ <img src="https://wakatime.com/share/@3fa6f882-0c98-428d-8f0a-ae5cee0d04f6/df3c62a8-ac1f-4dd1-81b9-120701804d3a.svg" height="400" />
 </p>
 </detail>
 <!--
@@ -18,3 +18,4 @@ https://wakatime.com/share/@3fa6f882-0c98-428d-8f0a-ae5cee0d04f6/060c8091-5873-4
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://camo.githubusercontent.com/2aaf82c965ce6542a43a15fefcbe9664bfa244fb452f39f07b76da9780c5859c/68747470733a2f2f77616b6174696d652e636f6d2f73686172652f4033666136663838322d306339382d343238642d386630612d6165356365653064303466362f66366662663038332d306264362d346232362d623233382d3537663332633439636166392e737667
