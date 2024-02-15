@@ -2,10 +2,6 @@
 - 📫 How to reach me:
 - Telegram: @tiazz0
 <detail>
-<p align="center">
- <img src="https://wakatime.com/share/@3fa6f882-0c98-428d-8f0a-ae5cee0d04f6/df3c62a8-ac1f-4dd1-81b9-120701804d3a.svg" height="400" />
-  <img src="https://wakatime.com/share/@3fa6f882-0c98-428d-8f0a-ae5cee0d04f6/356336d4-1bce-4c97-978c-a6cf6acacac3.svg" height="400" />
-</p>
 </detail>
 <!--
 **Tiazen/Tiazen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
